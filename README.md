@@ -9,7 +9,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=awwze&theme=dark&background=0D1117&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFA500&sideLabels=FFA500" alt="awwze streak stats" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awwze&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&title_color=0078D4&text_color=FFFFFF&icon_color=0078D4" alt="awwze top languages" style="margin-bottom: 20px;" />
   </p>
 </div>
 
@@ -58,3 +57,5 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="margin-right: 10px;" />
   </a>
 </p>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awwze&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&title_color=0078D4&text_color=FFFFFF&icon_color=0078D4" alt="awwze top languages" style="margin-bottom: 20px;" />
