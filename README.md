@@ -1,4 +1,5 @@
 <h1 align="center">Yo👋, I'm Iskander</h1>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=awwze&theme=dark&background=0D1117&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFA500&sideLabels=FFA500" alt="awwze streak stats" />
 <h3 align="center">Just learning python, Django, GameDev, and gonna explore data science🤔</h3>
 
 - 🌱 I’m currently learning **Django and Unity**
@@ -38,5 +39,5 @@
 
 <div align="center" style="display: flex; gap: 400px; padding: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awwze&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&title_color=0078D4&text_color=FFFFFF&icon_color=0078D4" alt="awwze top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awwze&theme=dark&background=0D1117&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFA500&sideLabels=FFA500" alt="awwze streak stats" />
+
 </div>
