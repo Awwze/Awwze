@@ -36,7 +36,7 @@
   </a> 
 </p>
 
-<div align="center" style="display: flex; gap: 20px; padding: 10px;">
+<div align="center" style="display: flex; gap: 40px; padding: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awwze&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&title_color=0078D4&text_color=FFFFFF&icon_color=0078D4" alt="awwze top languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=awwze&theme=dark&background=0D1117&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFA500&sideLabels=FFA500" alt="awwze streak stats" />
 </div>
