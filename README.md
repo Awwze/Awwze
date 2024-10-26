@@ -1,4 +1,18 @@
 <h1 align="center">Yo👋, I'm Iskander</h1>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=awwze&show_icons=true&locale=en&theme=dark&bg_color=0D1117&title_color=0078D4&text_color=FFFFFF&icon_color=0078D4" alt="awwze GitHub stats" style="margin-bottom: 20px;" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=awwze&theme=dark&background=0D1117&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFA500&sideLabels=FFA500" alt="awwze streak stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awwze&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&title_color=0078D4&text_color=FFFFFF&icon_color=0078D4" alt="awwze top languages" style="margin-bottom: 20px;" />
+  </p>
+</div>
+
 <h3 align="center">Just learning Python, Django, GameDev, and planning to explore Data Science 🤔</h3>
 
 <p align="center">
@@ -44,18 +58,3 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="margin-right: 10px;" />
   </a>
 </p>
-
----
-
-<h3 align="center">📊 GitHub Stats:</h3>
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awwze&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&title_color=0078D4&text_color=FFFFFF&icon_color=0078D4" alt="awwze top languages" style="margin-bottom: 20px;" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=awwze&show_icons=true&locale=en&theme=dark&bg_color=0D1117&title_color=0078D4&text_color=FFFFFF&icon_color=0078D4" alt="awwze GitHub stats" style="margin-bottom: 20px;" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=awwze&theme=dark&background=0D1117&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFA500&sideLabels=FFA500" alt="awwze streak stats" />
-  </p>
-</div>
