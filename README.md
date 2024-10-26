@@ -58,4 +58,6 @@
   </a>
 </p>
 
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awwze&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&title_color=0078D4&text_color=FFFFFF&icon_color=0078D4" alt="awwze top languages" style="margin-bottom: 20px;" />
+</div>
