@@ -1,5 +1,5 @@
-<h1 align="center">Yo👋, I'm Iskander</h1>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=awwze&theme=dark&background=0D1117&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFA500&sideLabels=FFA500" alt="awwze streak stats" />
+<h1 align="center">Yo👋, I'm Iskander</h1>
 <h3 align="center">Just learning python, Django, GameDev, and gonna explore data science🤔</h3>
 
 - 🌱 I’m currently learning **Django and Unity**
