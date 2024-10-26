@@ -26,9 +26,9 @@
 
 ---
 
-<h3 align="center">🌐 Connect with me:</h3>
+<h3 align="center">🌐 About me:</h3>
 <p align="center">
-  <!-- Add any social media or contact links here -->
+ Hi, my name is Iskander. I am 14 years old, and I’m currently learning Python, Django, Unity, and C# (for Unity). I’m working on my own game and creating small projects in Python to improve my skills 😎. If you want to get in touch with me, feel free to reach out by email or on Telegram 🙂.
 </p>
 
 ---
