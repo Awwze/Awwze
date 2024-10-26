@@ -1,7 +1,7 @@
 <h1 align="center">Yo👋</h1>
 <h3 align="center">Just learning Python, Django, GameDev, and gonna explore data science🤔</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django and Unity**
 
 - 💬 Ask me about **anything you want**
 
