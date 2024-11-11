@@ -1,4 +1,4 @@
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Awwze/Awwze/blob/output/github-snake-dark.svg)
 
 <h1 align="center">Yo👋, I'm Iskander</h1>
 
