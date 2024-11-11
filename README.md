@@ -1,3 +1,5 @@
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
 <h1 align="center">Yo👋, I'm Iskander</h1>
 
 <!-- GitHub Stats и Streak на одном ряду -->
@@ -58,4 +60,6 @@
   </a>
 </p>
 
-
+<div>
+  
+</div>
