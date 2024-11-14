@@ -10,23 +10,24 @@
 
 
 
-<h3 align="center">Just learning Python, Django, GameDev, and planning to explore Data Science 🤔</h3>
+<h3 align="center">Just learning C++, Unity, and planning to explore Computer Science 🤔</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=awwze&label=Profile%20views&color=0e75b6&style=flat" alt="awwze profile views" />
 </p>
 
-- 🌱 I’m currently learning **Django and Unity**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **anything you want**
 
 - 📫 How to reach me **thefloopa@gmail.com**
 
+- 🧠 Already know **Html with css**, **Python and Django** and partially know **Unity** 🕹️
 ---
 
 <h3 align="center">🌐 About me:</h3>
 <p align="center">
- Hi, my name is Iskander. I am 14 years old, and I’m currently learning Python, Django, Unity, and C# (for Unity). I’m working on my own game and creating small projects in Python to improve my skills 😎. If you want to get in touch with me, feel free to reach out by email or on Telegram 🙂.
+ Hi, my name is Iskander. I am 14 years old, and I’m currently learning C++ and Computer Science. I’m working on my own game and creating small projects in Python, and C++ to improve my skills 😎. If you want to get in touch with me, feel free to reach out by email or on Telegram 🙂.
 </p>
 
 ---
