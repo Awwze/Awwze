@@ -33,7 +33,7 @@
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools:</h3>
+<h3 align="center">🛠️ Languages and Tools: </h3>
 
 
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
