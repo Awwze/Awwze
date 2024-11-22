@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **thefloopa@gmail.com**
 
-- 🧠 Already know **Html with css**, **Python and Django** and partially know **Unity** 🕹️
+- 🧠 Already know **Html with css**, **Python and Django** and partially know **Unity** 🕹️ 
 ---
 
 <h3 align="center">🌐 About me:</h3>
