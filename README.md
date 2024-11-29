@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **anything you want**
 
-- 📫 How to reach me **thefloopa@gmail.com**
+- 📫 How to reach me **thefloopa@gmail.com** or **awwze@proton.me**
 
 - 🧠 Already know **Html with css**, **Python and Django** and partially know **Unity** 🕹️ 
 ---
