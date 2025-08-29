@@ -11,24 +11,22 @@
 
 
 
-<h3 align="center">Just learning C++, Unity, and planning to explore Computer Science 🤔</h3>
+<h3 align="center">Learning, creating ML/AI projects</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=awwze&label=Profile%20views&color=0e75b6&style=flat" alt="awwze profile views" />
 </p>
 
-- 🌱 I’m currently learning **C**
-
 - 💬 Ask me about **anything you want**
 
-- 📫 How to reach me **thefloopa@gmail.com** or **awwze@proton.me**
+- 📫 How to reach me **awwze@proton.me** or Telegram **@awwze**
 
-- 🧠 Already know **Html with css**, **Python and Django** and partially know **Unity** 🕹️ 
+- 🧠 Already know **Python, Django, Telegram bots and Gamedev** 🕹️ 
 ---
 
 <h3 align="center">🌐 About me:</h3>
 <p align="center">
- Hi, my name is Iskander. I am 14 years old, and I’m currently learning C++ and Computer Science. I’m working on my own game and creating small projects in Python, and C++ to improve my skills 😎. If you want to get in touch with me, feel free to reach out by email or on Telegram 🙂.
+My name is Iskander, 15 yo. Learning ML / AI Engineering, already doing projects using already existing models from Hugging Face. I had expirience of creating Telegram Bots, creating games and Django sites. Trying to concentrate on AI.
 </p>
 
 ---
@@ -36,18 +34,18 @@
 <h3 align="center">🛠️ Languages and Tools: </h3>
 
 
-  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![Django REST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![Clion](https://img.shields.io/badge/clion-143?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=green)
-  ![Cpp](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-  
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?logo=huggingface&logoColor=yellow&style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+
+
+
   
 
 
