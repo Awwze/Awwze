@@ -1,6 +1,6 @@
 ![snake gif](https://github.com/Awwze/Awwze/blob/output/github-snake-dark.svg)
 
-<h1 align="center">Hey👋, I'm Iskander </h1>
+<h1 align="center"> </h1>
 
 
 <div align="center">
